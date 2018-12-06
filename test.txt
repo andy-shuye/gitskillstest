@@ -1,4 +1,8 @@
 hello world
 I'm a test file
 Creating a new branch is quick.
+<<<<<<< HEAD
 你好
+=======
+特甜
+>>>>>>> dev
